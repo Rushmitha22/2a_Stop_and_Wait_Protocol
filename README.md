@@ -1,4 +1,4 @@
-# EXP 2A. : STOP AND WAIT PROTOCOL :
+# EXP 2A : STOP AND WAIT PROTOCOL :
 
 ## NAME : RUSHMITHA  R
 ## REGISTRATION NUMBER : 212224040281
@@ -56,7 +56,8 @@ while True:
 ## OUTPUT
 
 ### Server side:
-<img width="1695" height="1081" alt="EXP 2 A CLIENT" src="https://github.com/user-attachments/assets/aab3fc06-dcaf-4958-9c2a-88b4e7a57495" />
+<img width="1895" height="1083" alt="EXP 2 A SERVER" src="https://github.com/user-attachments/assets/9d0d0e34-2c54-4045-9a8b-a660a0078cd8" />
+
 
 
 ### Client Side:
